@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=pxmeter
+GenericName=Measure
+Comment=pxmeter
+Exec=/home/pasha/pxmeter/bin/pxmeter
+Terminal=false
+Icon=/home/pasha/pxmeter/img/pxmeter.png
+Categories=Development;
+StartupNotify=true
+Actions=Window;Document;

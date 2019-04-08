@@ -1,0 +1,1 @@
+The tool to measurement sizes of elements or the distance between the elements on web pages or on the screen
